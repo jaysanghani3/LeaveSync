@@ -1,0 +1,20 @@
+Installation Steps(Configuration)
+1. Download and Unzip file on your local system.
+2.Copy LeaveSync folder and LeaveSync folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+Database Configuration
+
+Open phpmyadmin
+Create Database elmsdb
+Import database elmsdb.sql (available inside zip package)
+Open Your browser put inside browser “http://localhost/LeaveSync-main%20(1)/LeaveSync-main/”
+
+Login Details for admin : 
+Open Your browser put inside browser “http://localhost/LeaveSync-main%20(1)/LeaveSync-main/admin/”
+Username : admin
+Password : Test@12345
+
+Login Details for Employee: 
+Open Your browser put inside browser “http://localhost/LeaveSync-main%20(1)/LeaveSync-main/”
+Email : jay@gmail.com
+Password : jay@123
